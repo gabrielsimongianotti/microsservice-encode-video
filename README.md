@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/go/src/encode/bucket-credential.json
